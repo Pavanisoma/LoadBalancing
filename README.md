@@ -1,9 +1,13 @@
-# LoadBalancing
+# LoadBalancing (Languague : Java)
 Docusing_Coding_Challenge
+
+
 I have maintained three txt files in the program.
 
 scannercopy.txt => to store input values given during run time.
+
 workingcopy.txt => file from where I took server names randomly with weighted percentage.
+
 Finalcopy.txt => this is copy of the scannercopy.txt which can be used when workingcopy.txt becomes empty
 
 Steps: 
