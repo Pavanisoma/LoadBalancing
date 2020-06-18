@@ -25,3 +25,6 @@ In anytime if scannercopy.txt is changed then I made sure that workingcopy.txt a
 Step 4:
 Tested the program giving multiple inputs and verified if it is working as expected.
 Given input “X:3 Y:2” runtime and check the return server name. Ran program25 times and was able to get X 15 times and Y 10 times.
+
+
+![image](https://user-images.githubusercontent.com/42732676/85077086-5b0c2000-b176-11ea-9509-a7980b654c81.png)
